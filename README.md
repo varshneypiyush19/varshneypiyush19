@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/piyushvarshney_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushvarshney_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush varshney" height="30" width="40" /></a>
-<a href="https://fb.com/piyush varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyush varshney" height="30" width="40" /></a>
+<a href="https://twitter.com/PiyushVarshney_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushvarshney_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush-varshney-754372252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush varshney" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100069714246350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyush varshney" height="30" width="40" /></a>
 <a href="https://instagram.com/varshneypiyush19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshneypiyush19" height="30" width="40" /></a>
 </p>
 
