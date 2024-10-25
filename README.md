@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*J20ej4fVYltW8HU7skIQ0Q.jpeg)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*J20ej4fVYltW8HU7skIQ0Q.jpeg)
 <h1 align="center">Hi 👋, I'm Piyush Varshney</h1>
 
 <h3 align="center">A passionate frontend developer</h3>
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Frontend **React**
 
 - 💬 Ask me about **Javascript, React**
+
 
 - 📫 How to reach me **varshneypiyush2004@gmail.com**
 
