@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*J20ej4fVYltW8HU7skIQ0Q.jpeg)]
 <h1 align="center">Hi 👋, I'm Piyush Varshney</h1>
 
 <h3 align="center">A passionate frontend developer</h3>
