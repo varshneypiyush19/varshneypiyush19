@@ -1,5 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*J20ej4fVYltW8HU7skIQ0Q.jpeg)
-
 <h1 align="center">Hi 👋, I'm Piyush Varshney</h1>
 
 <h3 align="center">
