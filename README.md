@@ -30,14 +30,6 @@ Building production-grade applications across Web, Mobile, Backend and Cloud.
 
 # 👨‍💻 About Me
 
-<p align="center">
-  <img
-    src="https://piyushvarshney.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPiyush_Varshney.248bc7e5.png&w=1920&q=75"
-    alt="Piyush Varshney"
-    width="350"
-  />
-</p>
-
 I am a Software Engineer passionate about building scalable products and solving real-world problems through technology.
 
 Currently working on production applications involving mobile development, backend systems, cloud infrastructure, integrations, and product engineering.
